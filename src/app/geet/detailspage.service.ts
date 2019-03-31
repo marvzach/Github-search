@@ -25,8 +25,8 @@ return this.http.get('https://api.github.com/users/' + this.username + '/repos?c
 
    }
 
-//  updateprofile(username: string) {
-//    this.username = username;
-//  }
+ updateprofile(username: string) {
+   this.username = username;
+ }
 
-// }
+}
