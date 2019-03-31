@@ -18,10 +18,11 @@ body {
   height: 70px;
 }
 
-/* .img-circle {
+.img-circle {
   height: 90px;
   margin: 30px;
 }
+
 li {
   display: inline-block;
   color: white;
@@ -41,7 +42,7 @@ nav li {
   margin-top: 20px;
 }
 
-nav>ul>li>a {
+/* nav>ul>li>a {
   padding: 10px;
   margin-right: 0;
   text-transform: uppercase;
