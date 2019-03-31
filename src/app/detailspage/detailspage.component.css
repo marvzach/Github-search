@@ -75,9 +75,7 @@ nav>ul>li>a:hover {
 }
 
 .list-group-item {
-  background-color: rgb(58, 7, 7);
-  background-image: url('/assets/bg.jpg');
-  opacity: 0.3;
+  opacity: 0.4;
   filter: alpha(opacity=100);
   color: black;
 }
