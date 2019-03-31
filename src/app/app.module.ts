@@ -18,12 +18,12 @@ import { ReposComponent } from './repos/repos.component';
     InformationComponent,
     ReposComponent
   ],
-//   imports: [
-//     BrowserModule,
-//     FormsModule,
-//     HttpClientModule
-//   ],
-//   providers: [DetailspageService],
-//   bootstrap: [AppComponent]
-// })
+  imports: [
+    BrowserModule,
+    FormsModule,
+    HttpClientModule
+  ],
+  providers: [DetailspageService],
+  bootstrap: [AppComponent]
+})
 export class AppModule { }
