@@ -1,4 +1,4 @@
-/* body {
+body {
   color: aliceblue;
   font-size: 30px;
 }
@@ -8,15 +8,17 @@
   width: 300px;
   margin-top: 50px;
 }
-.col-md-4{
+
+.col-md-4 {
   border: none;
 }
+
 .container-fluid {
   background: black;
   height: 70px;
 }
 
-.img-circle {
+/* .img-circle {
   height: 90px;
   margin: 30px;
 }
@@ -72,8 +74,8 @@ nav>ul>li>a:hover {
 }
 
 .list-group-item {
-  /* background-color: rgb(58, 7, 7); */
-  /* background-image: url('/assets/bg.jpg'); */
+  background-color: rgb(58, 7, 7);
+  background-image: url('/assets/bg.jpg');
   opacity: 0.3;
   filter: alpha(opacity=100);
   color: black;
@@ -100,4 +102,4 @@ nav>ul>li>a:hover {
 }
 .me{
   border: 20px;
-} */
+}  */
