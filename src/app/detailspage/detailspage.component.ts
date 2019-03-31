@@ -9,11 +9,11 @@ import {FormsModule} from '@angular/forms';
   styleUrls: ['./detailspage.component.css']
 })
 export class DetailspageComponent implements OnInit {
-// profile: any = [];
-// repos: any = [];
-// username: string;
+profile: any = [];
+repos: any = [];
+username: string;
 
-// constructor(private detailspageServe: DetailspageService) { }
+constructor(private detailspageServe: DetailspageService) { }
 
 ngOnInit() {
 
