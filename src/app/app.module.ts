@@ -11,13 +11,13 @@ import { InformationComponent } from './information/information.component';
 import { ReposComponent } from './repos/repos.component';
 
 
-// @NgModule({
-//   declarations: [
-//     AppComponent,
-//     DetailspageComponent,
-//     InformationComponent,
-//     ReposComponent
-//   ],
+@NgModule({
+  declarations: [
+    AppComponent,
+    DetailspageComponent,
+    InformationComponent,
+    ReposComponent
+  ],
 //   imports: [
 //     BrowserModule,
 //     FormsModule,
