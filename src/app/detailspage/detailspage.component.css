@@ -42,7 +42,7 @@ nav li {
   margin-top: 20px;
 }
 
-/* nav>ul>li>a {
+nav>ul>li>a {
   padding: 10px;
   margin-right: 0;
   text-transform: uppercase;
@@ -81,11 +81,13 @@ nav>ul>li>a:hover {
   filter: alpha(opacity=100);
   color: black;
 }
-.repo{
+
+.repo {
   opacity: 0.3;
   filter: alpha(opacity=100);
   color: black;
 }
+
 .list-group {
   margin-top: 50px;
 }
@@ -101,6 +103,7 @@ nav>ul>li>a:hover {
   font-family: 'Gloria Hallelujah', cursive;
   font-size: 10px;
 }
-.me{
+
+.me {
   border: 20px;
-}  */
+}
