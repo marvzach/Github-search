@@ -4,7 +4,7 @@ body {
 }
 
 .panel-body img {
-  height: 300px;
+  height: 350px;
   width: 300px;
   margin-top: 50px;
 }
@@ -75,7 +75,7 @@ nav>ul>li>a:hover {
 }
 
 .list-group-item {
-  opacity: 0.4;
+  opacity: 0.3;
   filter: alpha(opacity=100);
   color: black;
 }
